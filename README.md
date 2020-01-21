@@ -8,3 +8,4 @@ This was my "Market Structures Project" which effectively was the Trimester 2 Fi
 ## The Rubric:
 ![Front of Rubric](/Images/FrontOfRubric.jpg)
 ![Back of Rubric](/Images/BackOfRubric.jpg)
+*-Note:By the time he finished grading the project, J-Bucks, the classroom currency that he invented, were essentially devalued to the point of worthlessness. So, instead, he allowed people who earned over 100% on the project to keep the bonus points that they earned attatched to the project.
